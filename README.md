@@ -88,4 +88,4 @@ O curso está dividido nas seguintes seções:
 43. Optional Module: Ask Angela Anything
 44. Next Steps
 
-## [Link do Curso](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+[Link do Curso](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
